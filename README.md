@@ -27,3 +27,5 @@ https://www.kaggle.com/datasets/nipunarora8/age-gender-and-ethnicity-face-data-c
 - "Data_scientist_дипломный_проект_задача_2.1_модели_GAN";
 - "Data_scientist_дипломный_проект_задача_2.2_модели_DCGAN";
 - "Data_scientist_дипломный_проект_задача_2_3_гибридная_модель".
+
+В папке "Проверка модели задачи 1.zip" приведены фотографии для проверки модели задачи 1.
